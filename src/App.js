@@ -6,7 +6,7 @@ import characters from '../src/response.json';
 
 function App() {
 
-    const filterFor = "Morty";
+    const filterFor = "";
 
     return (
         <div className="App">

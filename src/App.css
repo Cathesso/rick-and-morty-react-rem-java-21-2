@@ -1,8 +1,20 @@
 .App {
   text-align: center;
-  color: turquoise;
-  background-color: black;
+  color: mediumseagreen;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
+
+.App h1{
+  width:100%;
+}
+
+#root{
+  grid-column-start: 2;
+  background-color: rgba(255,255,255,0.75);
+}
+
 .name {
 
 }
