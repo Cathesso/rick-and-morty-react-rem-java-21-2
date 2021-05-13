@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rick-and-morty-reacht-rem-java-21-2/static/css/main.d96b0faa.chunk.css",
-    "main.js": "/rick-and-morty-reacht-rem-java-21-2/static/js/main.78407b2b.chunk.js",
-    "main.js.map": "/rick-and-morty-reacht-rem-java-21-2/static/js/main.78407b2b.chunk.js.map",
-    "runtime-main.js": "/rick-and-morty-reacht-rem-java-21-2/static/js/runtime-main.a2daf5ca.js",
-    "runtime-main.js.map": "/rick-and-morty-reacht-rem-java-21-2/static/js/runtime-main.a2daf5ca.js.map",
-    "static/js/2.a3152a56.chunk.js": "/rick-and-morty-reacht-rem-java-21-2/static/js/2.a3152a56.chunk.js",
-    "static/js/2.a3152a56.chunk.js.map": "/rick-and-morty-reacht-rem-java-21-2/static/js/2.a3152a56.chunk.js.map",
-    "static/js/3.67d14a76.chunk.js": "/rick-and-morty-reacht-rem-java-21-2/static/js/3.67d14a76.chunk.js",
-    "static/js/3.67d14a76.chunk.js.map": "/rick-and-morty-reacht-rem-java-21-2/static/js/3.67d14a76.chunk.js.map",
-    "index.html": "/rick-and-morty-reacht-rem-java-21-2/index.html",
-    "static/css/main.d96b0faa.chunk.css.map": "/rick-and-morty-reacht-rem-java-21-2/static/css/main.d96b0faa.chunk.css.map",
-    "static/js/2.a3152a56.chunk.js.LICENSE.txt": "/rick-and-morty-reacht-rem-java-21-2/static/js/2.a3152a56.chunk.js.LICENSE.txt"
+    "main.css": "/rick-and-morty-react-rem-java-21-2/static/css/main.d96b0faa.chunk.css",
+    "main.js": "/rick-and-morty-react-rem-java-21-2/static/js/main.78407b2b.chunk.js",
+    "main.js.map": "/rick-and-morty-react-rem-java-21-2/static/js/main.78407b2b.chunk.js.map",
+    "runtime-main.js": "/rick-and-morty-react-rem-java-21-2/static/js/runtime-main.a85cd3f1.js",
+    "runtime-main.js.map": "/rick-and-morty-react-rem-java-21-2/static/js/runtime-main.a85cd3f1.js.map",
+    "static/js/2.a3152a56.chunk.js": "/rick-and-morty-react-rem-java-21-2/static/js/2.a3152a56.chunk.js",
+    "static/js/2.a3152a56.chunk.js.map": "/rick-and-morty-react-rem-java-21-2/static/js/2.a3152a56.chunk.js.map",
+    "static/js/3.67d14a76.chunk.js": "/rick-and-morty-react-rem-java-21-2/static/js/3.67d14a76.chunk.js",
+    "static/js/3.67d14a76.chunk.js.map": "/rick-and-morty-react-rem-java-21-2/static/js/3.67d14a76.chunk.js.map",
+    "index.html": "/rick-and-morty-react-rem-java-21-2/index.html",
+    "static/css/main.d96b0faa.chunk.css.map": "/rick-and-morty-react-rem-java-21-2/static/css/main.d96b0faa.chunk.css.map",
+    "static/js/2.a3152a56.chunk.js.LICENSE.txt": "/rick-and-morty-react-rem-java-21-2/static/js/2.a3152a56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2daf5ca.js",
+    "static/js/runtime-main.a85cd3f1.js",
     "static/js/2.a3152a56.chunk.js",
     "static/css/main.d96b0faa.chunk.css",
     "static/js/main.78407b2b.chunk.js"
