@@ -1,24 +1,27 @@
 .App {
   text-align: center;
   color: mediumseagreen;
-  display:flex;
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
-.App h1{
-  width:100%;
+.App h1 {
+  width: 100%;
 }
 
-#root{
+.App input {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+#root {
   grid-column-start: 2;
-  background-color: rgba(255,255,255,0.75);
+  background-color: rgba(255, 255, 255, 0.75);
 }
 
 .name {
-
 }
 
-.description{
-
+.description {
 }
