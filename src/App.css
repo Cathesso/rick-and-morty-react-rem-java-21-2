@@ -10,9 +10,15 @@
   width: 100%;
 }
 
-.App input {
+.App .control {
   width: 100%;
-  margin-bottom: 1em;
+  margin: 1em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.App .control input{
+  width: 50%;
 }
 
 #root {
