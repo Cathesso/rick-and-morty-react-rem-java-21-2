@@ -6,15 +6,16 @@ import axios from "axios";
     );
 }*/
 
-export function loadCharacters(){
+export function loadCharacters(pageNumber){
     // Make a request for a user with a given ID
-    return axios.get('https://rickandmortyapi.com/api/character/?page=12')
+    return axios.get('https://rickandmortyapi.com/api/character/?page=' + pageNumber)
         .then(response => {
             // handle success
             return response.data;
         })
-        .catch(function (error) {
+
+        /*.catch(function (error) {
             // handle error
             console.log(error);
-        });
+        });*/
 }
